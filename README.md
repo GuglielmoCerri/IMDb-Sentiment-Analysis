@@ -1,4 +1,6 @@
 # IMDb Sentiment Analysis with TensorFlow
+![Python Version](https://img.shields.io/badge/Python-3.11.4-blue.svg)
+![TensorFlow Version](https://img.shields.io/badge/TensorFlow-2.13.0-orange.svg)
 
 ![Header](doc/header.png)
 
