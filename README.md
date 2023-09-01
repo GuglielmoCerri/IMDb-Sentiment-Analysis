@@ -4,7 +4,7 @@
 
 ## About the Project
 
-This repository contains a sentiment analysis project using the IMDb dataset of 50,000 movie reviews. The goal of this project is to analyze and perform binary sentiment classification on movie reviews, predicting whether a review is positive or negative using TensorFlow and machine learning techniques.
+This repository contains a sentiment analysis project using the IMDb dataset of 50,000 movie reviews. The goal of this project is to analyze (with NLP techniques) and perform binary sentiment classification on movie reviews, predicting whether a review is positive or negative using TensorFlow and machine learning techniques.
 
 ## Dataset
 
